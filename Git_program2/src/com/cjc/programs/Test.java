@@ -22,4 +22,8 @@ public void m5()
 {
 	System.out.println("m5 method");
 }
+public void m6()
+{
+	System.out.println("m6 method");
+}
 }
