@@ -26,4 +26,17 @@ public void m6()
 {
 	System.out.println("m6 method");
 }
+public void m7()
+{
+	System.out.println("m6 method");
+}
+public void m8()
+{
+	System.out.println("m6 method");
+}
+public void m9()
+{
+	System.out.println("m6 method");
+}
+	
 }
