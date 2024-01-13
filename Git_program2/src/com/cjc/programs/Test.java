@@ -38,5 +38,7 @@ public void m9()
 {
 	System.out.println("m6 method");
 }
-	
+public static void main(String[] args)
+	{
+		
 }
